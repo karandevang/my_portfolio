@@ -11,6 +11,9 @@ export default defineConfig({
     tailwindcss(),
   ],
   base: '/my_portfolio/', 
+  build: {
+    outDir: 'docs',  // ← change from dist to docs
+  },
   resolve: {
     alias: {
       // Alias @ to the src directory
