@@ -80,7 +80,7 @@ export function Home() {
                 className="text-lg text-slate-400 mb-10"
               >
                 With 3 years of experience building scalable applications using C#/.NET, Java, and modern web technologies.
-                Currently pursuing M.S. in Computer Science at UMass Lowell, exploring the intersection of AI/ML and distributed systems.
+                Currently pursuing M.S. in Computer Science at UMass Lowell, exploring the intersection of AI/ML,NLP and distributed systems.
               </motion.p>
 
               <motion.div
