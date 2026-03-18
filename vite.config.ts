@@ -10,6 +10,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/my_portfolio/', 
   resolve: {
     alias: {
       // Alias @ to the src directory
